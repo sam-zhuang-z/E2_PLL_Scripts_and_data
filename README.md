@@ -1,4 +1,4 @@
-##Files and Data Collected for E2 PLL
+## Files and Data Collected for E2 PLL
 A repo for helper scripts and data collected
 - arduino serial communication is implemented in e2_functions.py
 - batch plotter is plotter.py
